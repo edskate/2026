@@ -1,0 +1,2 @@
+{"schemaVersion":1,"eventId":"4de2bf17-cf26-4b05-92a7-d3d27bf5a325","runId":"run-c140418a-829e-4567-8661-fa8aff88e46e","timestampMs":1778198862853,"source":"router","phase":"start","commandName":"git.showAnalytics"}
+{"schemaVersion":1,"eventId":"cb2231a7-7d49-433c-9922-02c81faea77b","runId":"run-c140418a-829e-4567-8661-fa8aff88e46e","timestampMs":1778198862967,"source":"router","phase":"complete","commandName":"git.showAnalytics","resultKind":"ok","durationMs":116}
